@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Academy",
+  "description": "Aplikasi edukasi RPG dengan materi Kurikulum Merdeka untuk siswa SMA Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
